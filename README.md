@@ -4,7 +4,7 @@
  
  🇧🇷 Brazil
 
-Estou no **Inicio da minha jornada profissional na área da tecnologia**. Contempo esse portfolio com o **Objetivo** de **organizar** estudos e projetos, **documentar** praticas Acadêmicas desenvolvidas durante a formação e **registar** evoluções e progressos.
+Estou no **Inicio da minha jornada profissional na área da tecnologia**. Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, **documentar** praticas Acadêmicas desenvolvidas durante a formação e **registar** evoluções e progressos.
 
 ---
 
@@ -21,6 +21,6 @@ Estou no **Inicio da minha jornada profissional na área da tecnologia**. Contem
 
 "A melhor maneira de **prever** o futuro é **inventá-lo**." — Steve Jobs
 
-"O verdadeiro **problema** não é se as máquinas pensam, **mas se os humanos o fazem** - B.F. Skinner
+"O verdadeiro **problema** não é se as máquinas pensam, **mas se os humanos o fazem** — B.F. Skinner
 
 "O Código que escreve hoje, é o **legado** do amanhã"
