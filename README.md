@@ -1,6 +1,7 @@
 # Hi 👋, I'm Guilherme Andrade
 
- **Sou graduando em ADS pela** [Estácio].[https://estacio.br] 
+ **Sou graduando em ADS pela**
+ 
  🇧🇷 Brasil
 
 Estou no **inicio da minha Jornada profissional na Àrea da tecnologia**. Contempo esse portfolio com o **Objetivo** de **Organizar** estudos e projetos, **Documentar** praticas Acadêmicas desenvolvidas durante a formação e **Registar** evoluções e Progressos.
@@ -31,5 +32,7 @@ Estou no **inicio da minha Jornada profissional na Àrea da tecnologia**. Contem
 ## 🚀 Filosofias e inspirações
 
 **"A melhor maneira de prever o futuro é inventá-lo." — Steve Jobs**
+
 **"O verdadeiro problema não é se as máquinas pensam, mas se os humanos o fazem - B.F. Skinner**
+
 **O Código que escreve hoje, é o legado do amanhã**
