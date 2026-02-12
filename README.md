@@ -8,7 +8,7 @@ Estou no início da minha formação na área da tecnologia, com foco em constru
 
 
 ### POR QUE ADS ?
-Escolhi cursar Analise e Desenvolvimento de Sistemas pela prática dinâmica na resolução de problemas tecnológico, alinhada ao meu propósito profissional. O curso permite aplicar o conhecimento de forma objetiva e desenvolver soluções de sistemas desde o início da formação.
+Escolhi cursar Analise e Desenvolvimento de Sistemas pela prática dinâmica na resolução de problemas tecnológicos, alinhada ao meu propósito profissional. O curso permite aplicar o conhecimento de forma objetiva e desenvolver soluções de sistemas desde o início da formação.
 
 ### OBJETIVOS
 - Documentar estudos e Praticas desenvolvidas
