@@ -1,6 +1,6 @@
 # Hi 👋, I'm Guilherme Andrade
 
- **Sou graduando em ADS pela**
+ **Sou graduando em ADS pela** [Estácio](https://www.estacio.br)
  
  🇧🇷 Brazil
 
