@@ -10,7 +10,7 @@ Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, 
 
 ---
 
-## 🌐 Where to find me
+## 🌐 WHERE TO FIND ME
 
 <p align="left">
 <a href="mailto:guilhermeandrademendes10@gmail.com">
@@ -23,7 +23,7 @@ Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, 
 </p>
 
 
-## 📊 GitHub status
+## 📊 GITHUB STATUS
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeandradeads&theme=dark)
 
@@ -36,7 +36,7 @@ Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, 
 </picture>
 
 
-## 🚀 Philosophies and inspirations
+## 🚀 PHILOSOPHIES and INSPIRATIONS
 
 "A melhor maneira de **prever** o futuro é **inventá-lo**." — Steve Jobs
 
