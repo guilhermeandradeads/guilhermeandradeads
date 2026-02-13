@@ -15,6 +15,9 @@ Estou no **inicio da minha jornada profissional na área da tecnologia**. Contem
 
 ## 📊 GitHub status
 
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guiandrademendes&show_icons=true&theme=tokyonight&count_private=true" />
+
 
 
 ## 🚀 Philosophies and inspirations
