@@ -33,8 +33,6 @@ Estou no **inicio da minha jornada profissional na área da tecnologia**. Contem
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilhermeandradeads&theme=dark)
 
-![Pacman animation](https://github.com/guilhermeandradeads/guilhermeandradeads/blob/output/pacman.svg)
-
 
 ## 🚀 Philosophies and inspirations
 
