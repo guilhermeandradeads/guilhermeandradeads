@@ -27,8 +27,8 @@ Contempo esse portfolio com o **objetivo** de **organizar** estudos e projetos, 
 
 ## 🚀 PHILOSOPHIES and INSPIRATIONS
 
-"A melhor maneira de **prever** o futuro é **inventá-lo**." — Steve Jobs
+"A melhor maneira de **prever** o futuro é **inventá-lo**."
 
-"O verdadeiro **problema** não é se as máquinas pensam, **mas se os humanos o fazem** — B.F. Skinner
+"O verdadeiro **problema** não é se as máquinas pensam, **mas se os humanos o fazem**
 
 "O Código que escreve hoje, será o seu **legado** amanhã"
