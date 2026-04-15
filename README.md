@@ -7,7 +7,7 @@
 
 ---
 
-## 🎯 GOALS
+## 🎯GOALS
 - 🚀 Become a Back-end developer with a focus on Cloud technologies  
 - 💻 Learn programming and continuously improve my skills  
 - 🛠️ Build practical projects to gain real experience  
@@ -15,7 +15,7 @@
 
 ---
 
-## 📫 GET IN TOUCH
+## 📫GET IN TOUCH
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherm4andrade/)
