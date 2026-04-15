@@ -25,4 +25,4 @@ Conseguir minha primeira oportunidade na área de tecnologia
 
 
 
-<img src="https://raw.githubusercontent.com/guidradetech/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/guidradetech/guidradetech/output/snake.svg" alt="Snake animation" />
