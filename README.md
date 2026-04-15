@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+World+%F0%9F%91%8B;Hello+World+%F0%9F%91%8B;Hello+World+%F0%9F%91%8B" />
-</p>
+<h1 align="center">
+  HELLO WORLD <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+</h1> 
 <p align="center">
   <b>ADS Student | Software Development Learner | tech-focused</b>
 </p>
