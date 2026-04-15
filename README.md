@@ -1,8 +1,8 @@
-## 👋WELCOME TO MY GITHUB PROFILE
+## 👋 WELCOME TO MY GITHUB PROFILE
 
-**ADS Student | Software Development Learner | Tech-focused**
-
-I am at the beginning of my programming journey, learning from scratch and building a strong foundation in technology.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;ADS+Student+%7C+Software+Development+Learner;Building+my+path+in+tech" />
+</p>
 
 ---
 
@@ -15,16 +15,28 @@ I am at the beginning of my programming journey, learning from scratch and build
 
 ---
 
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guidradetech&theme=dark&hide_border=true&background=000000" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTIONS SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guidradetech/guidradetech/output/snake-dark.svg" />
+</p>
+
+---
 
 ## 📫 GET IN TOUCH
+
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherm4andrade/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecontact.tech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guidradetech)
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guidradetech&theme=dark&hide_border=true&background=000000)
-
----
-
-![snake](https://raw.githubusercontent.com/guidradetech/guidradetech/output/snake-dark.svg)
+</p>
