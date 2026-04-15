@@ -7,10 +7,10 @@
 </p>
 
 ## 🎯 GOALS
-- 🚀 Become a Back-end developer with a focus on Cloud technologies  
-- 💻 Learn programming and continuously improve my skills  
-- 🛠️ Build practical projects to gain real experience  
-- 🌐 Get my first opportunity in the tech industry  
+- 🚀 Become a backend developer focused on cloud technologies  
+- 💻 Learn programming and keep improving my skills  
+- 🛠️ Build real projects to gain hands-on experience  
+- 🌐 Land my first opportunity in the tech industry    
 
 ## 📫 GET IN TOUCH
 <p align="center">
