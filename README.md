@@ -16,6 +16,14 @@ Construir projetos práticos para ganhar experiência
 Conseguir minha primeira oportunidade na área de tecnologia
 
 
+## GET IN TOUCH
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](guilhermecontact.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/
+guilhermeandrademendes)
+
+
+
 
 
 
