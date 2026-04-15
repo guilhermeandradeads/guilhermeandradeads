@@ -19,3 +19,8 @@ I am at the beginning of my programming journey, learning from scratch and build
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF)](https://www.linkedin.com/in/guilherm4andrade/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF)](mailto:guilhermecontact.tech@gmail.com)
+
+
+
+
+![Snake animation](https://github.com/guidradetech/guidradetech/blob/output/github-contribution-grid-snake.svg)
