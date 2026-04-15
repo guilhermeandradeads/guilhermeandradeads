@@ -1,5 +1,5 @@
 <h1 align="center">
-  HELLO WORLD <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  Helloooo Helloo World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
 </h1> 
 <p align="center">
   <b>ADS Student | Software Development Learner | tech-focused</b>
