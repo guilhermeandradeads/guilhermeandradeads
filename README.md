@@ -26,10 +26,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecontact.tech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guidradetech)
 
-</p>
-
----
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guidradetech&theme=dark&hide_border=true&background=000000" />
 </p>
   <img src="https://raw.githubusercontent.com/guidradetech/guidradetech/output/snake-dark.svg" />
